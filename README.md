@@ -1,4 +1,4 @@
-### Welcome to the world's biggest noob's gh profile! 👋
+### Hey! 👋
 
 I am Amin. I do JS and TS.
 

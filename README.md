@@ -2,7 +2,6 @@
 
 I am Amin. I do JS and TS.
 
-- 🔭 I’m currently working on building cool stuff at [Kive](https://kive.ai/)
 - 📫 How to reach me instantly: `window.atob('aHR0cHM6Ly90Lm1lL2FtaW5wZXJzb24=')`
 - 📫 How to reach me not so instantly: [@AminSpeaks](https://twitter.com/AminSpeaks). (I don't have the app on my phone but I do check my twitter a couple of times a day.)  
 - 😄 Pronouns: he/him
